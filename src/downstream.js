@@ -1,0 +1,1 @@
+import * as middle from './middle';

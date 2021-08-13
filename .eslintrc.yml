@@ -1,0 +1,9 @@
+plugins:
+  - import
+
+parserOptions:
+  sourceType: module
+  ecmaVersion: 2020
+
+rules:
+  import/namespace: error

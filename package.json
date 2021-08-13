@@ -1,0 +1,23 @@
+{
+  "name": "repro-eslint-plugin-import-2161",
+  "version": "1.0.0",
+  "description": "Repro for issue 2161",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickHeiner/repro-eslint-plugin-import-2161.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NickHeiner/repro-eslint-plugin-import-2161/issues"
+  },
+  "homepage": "https://github.com/NickHeiner/repro-eslint-plugin-import-2161#readme",
+  "dependencies": {
+    "eslint": "7.32.0",
+    "eslint-plugin-import": "2.24.0"
+  }
+}
