@@ -18,6 +18,6 @@
   "homepage": "https://github.com/NickHeiner/repro-eslint-plugin-import-2161#readme",
   "dependencies": {
     "eslint": "7.32.0",
-    "eslint-plugin-import": "2.24.0"
+    "eslint-plugin-import": "2.24.1"
   }
 }
